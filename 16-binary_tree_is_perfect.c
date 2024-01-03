@@ -62,7 +62,7 @@ int is_perfect_recursive(const binary_tree_t *tree,
  * binary_tree_is_perfect - inacheki perfectness
  * @tree: pointer to root node ya tree tunacheki
  *
- * description zaidi for samba: A perfect binary tree is both complete 
+ * description zaidi for samba: A perfect binary tree is both complete
  * filled from left to right on every level and full ie 0 or 2 cildren
  *
  * Return: NULL/ not perfect=0.else 1
