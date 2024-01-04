@@ -1,5 +1,5 @@
  A basic understanding requirement for the 0x1D. C - Binary trees project
-done by Zablon Samba and steve muhindi
+done by Zablon Samba and steve muhindi.
 
 
 
