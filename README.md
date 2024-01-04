@@ -7,7 +7,7 @@ Binary search trees are also efficacious in sortings and search algorithms. Howe
 
 Binary search trees are also a fundamental data structure used in construction of abstract data structures such as sets, multisets, and associative arrays.
 
-The terms "depth," "height," and "size" in the context of a binary tree refer to different aspects of its structure:
+The terms "depth," "height," and "size" in the context of a binary tree refer to different aspects of its structure
 
 The depth of a node in a binary tree is the number of edges on the path from the root to that node.
 The depth of the root node is 0.
