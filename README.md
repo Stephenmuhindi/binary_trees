@@ -18,7 +18,7 @@ Alternatively, it can be defined as the number of edges on the longest path from
 The height of an empty tree is typically considered -1, and the height of a tree with only one node (the root) is 0.
 Size (or Number of Nodes):
 
-The size of a binary tree is the total number of nodes in the tree
+The size of a binary tree is the total number of nodes in the tree.
 It includes all nodes – both internal nodes (with at least one child) and leaf nodes (with no children)
 Mathematically, the size of a tree can be calculated as the sum of the number of nodes in its left and right subtrees, plus one for the current root node
 
