@@ -5,9 +5,9 @@ void printer(const binary_tree_t *tree, void (*func)(int), size_t level);
 void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int));
 
 /**
- * binary_tree_height - measures the height of a binary tree
- * @tree: the input root address
- * Return: height of the binary tree
+ * binary_tree_height - inapima height ya tree
+ * @tree: root nde to the tree pointer
+ * Return: height
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
@@ -23,10 +23,10 @@ size_t binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * printer - prints out the level where you are at.
- * @tree: the input root address
- * @func: input func address
- * @level: height of node to be printed
+ * printer - tells us the level we @
+ * @tree: root node address
+ * @func: function to be called at a paticular nodes
+ * @level: height of node
  */
 void printer(const binary_tree_t *tree, void (*func)(int), size_t level)
 {
@@ -45,9 +45,9 @@ void printer(const binary_tree_t *tree, void (*func)(int), size_t level)
 
 
 /**
- * binary_tree_levelorder - traverse a binary tree using level-order traversal
- * @tree: the input root address
- * @func: input func address
+ * binary_tree_levelorder - level-order traversal method
+ * @tree: root node tree pointer
+ * @func: func to be called at the node
  */
 void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int))
 {
