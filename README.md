@@ -24,7 +24,7 @@ Mathematically, the size of a tree can be calculated as the sum of the number of
 
 Traversal refers to the process of visiting and processing each node in a tree data structure. In the context of binary trees, there are three main types of tree traversals: in-order, pre-order, and post-order. These traversals differ in the order in which they visit the nodes.
 
-In-Order Traversal:
+In-Order Traversal
 
 Visit the left subtree.
 Visit the current node.
