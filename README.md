@@ -1,4 +1,4 @@
-A basic understanding requirement for the 0x1D. C - Binary trees project done by Zablon Samba and Steve Muhindi.
+A basic understanding requirement for the 0x1D. C - Binary trees project done by Zablon Samba and Steve Muhindi. 
 
 A binary search tree is a rooted binary tree in which nodes are arranged in strict total order in which the nodes with keys greater than any particular node A is stored on the right sub-trees to that node A and the nodes with keys equal to or less than A are stored on the left sub-trees to A, satisfying the binary search property. 
 
