@@ -21,7 +21,7 @@ size_t binary_tree_size(const binary_tree_t *tree)
  * checker - check completeness
  * @tree: the rootnode pointer
  * @index: index of node
- * @size: size 
+ * @size: size
  * Return: complete=1 else 0
  */
 int checker(const binary_tree_t *tree, size_t index, size_t size)
